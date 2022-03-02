@@ -1,9 +1,7 @@
-# Hi Joseph here - aka M@sh✌🏻
+# Hi Joseph here - aka M@sh 🤟
 
-I'm a developer !!
-
-- 🐧 I like web projects, open source and linux.
-- 🚀 I use Arch btw.
+- 🚀 I like web projects, open source and linux.
+- 🐧 Arch Linux and NixOs.
 - ☕ weeb.
 
 **Languages and Tools:**  
