@@ -2,7 +2,7 @@
 
 - 🚀 I like web projects, open source and linux.
 - 🐧 Arch Linux and NixOs.
-- ☕ weeb.
+- ☕ Weeb.
 
 **Languages and Tools:**  
 
