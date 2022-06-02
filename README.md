@@ -5,7 +5,7 @@ Also I'm einthusan of `Linux` and the `Free software` philosophy.
 
 ### Other information
 
-- Pronouns: he/they
+- Pronouns: he/him
 - Citizenship: Dominican
 - Born: February, 2001
 - OS: Arch Linux, NixOS
