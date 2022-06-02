@@ -1,14 +1,18 @@
-# Hi Joseph here - aka M@sh 🤟
+## Hi Mash here 🤟
 
-- 🚀 I like web projects, open source and linux.
-- 🐧 Arch Linux and NixOs.
-- ☕ Weeb.
+I'm Joseph Estevez a software developer interesting in JavaScript and TypeScript, I have been developing with React and Nestjs.\
+Also I'm einthusan of `Linux` and the `Free software` philosophy.
 
-**Languages and Tools:**  
+### Other information
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- Pronouns: he/they
+- Citizenship: Dominican
+- Born: February, 2001
+- OS: Arch Linux, NixOS
 
-![Joseph Estevez GitHub stats](https://github-readme-stats.vercel.app/api?username=waterssh&show_icons=true&text_color=ABB2BF&bg_color=131316&border_radius=4&icon_color=d3652c&title_color=d3652c)
+### Get in touch
+
+- email: <joseph.estevez@protonmail.com>
+- Twitter: [@mercuryssh](https://twitter.com/mercuryssh)
+
+![Joseph Estevez GitHub stats](https://github-readme-stats.vercel.app/api?username=mercuryssh&text_color=ffffff&bg_color=080808&border_radius=4&icon_color=ffffff&title_color=ffffff&show_icons=true)
