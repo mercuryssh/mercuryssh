@@ -17,4 +17,4 @@ Also I'm einthusan of `Linux` and the `Free software` philosophy.
 
 ![Joseph Estevez GitHub stats](https://github-readme-stats.vercel.app/api?username=mercuryssh&text_color=ffffff&bg_color=080808&border_radius=4&icon_color=ffffff&title_color=ffffff&show_icons=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=50szurkmiep9ljohbl91wgkrh&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://volt.fm/user/95n6vljsmk0p54aa)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=50szurkmiep9ljohbl91wgkrh&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://volt.fm/user/95n6vljsmk0p54aa)
