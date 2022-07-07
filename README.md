@@ -8,7 +8,7 @@ Also I'm einthusan of `Linux` and the `Free software` philosophy.
 - Pronouns: he/him
 - Citizenship: Dominican
 - Born: February, 2001
-- OS: Arch Linux, NixOS
+- OS: NixOS, Arch Linux
 
 ### Get in touch
 
