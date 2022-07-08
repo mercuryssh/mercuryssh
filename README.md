@@ -1,6 +1,6 @@
 ## Hi Mash here 🤟
 
-I'm Joseph Estevez a software developer interesting in JavaScript and TypeScript, I have been developing with React and Nestjs.
+I'm Joseph Estevez a software developer interesting in JavaScript and TypeScript, I have been developing with React and Nestjs.\
 Also I'm einthusan of `Linux` and the `Free software` philosophy.
 
 ### Other information
